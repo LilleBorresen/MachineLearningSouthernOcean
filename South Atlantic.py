@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Tue Jul 24 15:45:52 2018
 
-@author: lille
+@author: Lille Borresen
 
 SOUTH ATLANTIC
 
