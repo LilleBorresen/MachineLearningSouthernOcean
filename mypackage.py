@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Sat Aug 18 22:11:01 2018
 
-@author: lille
+@author: Lille Borresen
 
 Aims:
     - Define MeanShift routine to cluster and plot results
