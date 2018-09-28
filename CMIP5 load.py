@@ -1,11 +1,13 @@
-# -*- coding: utf-8 -*-
 """
 Created on Wed Aug 22 21:04:41 2018
 
-@author: lille
+@author: Lille Borresen
 
 Aims:
-    -
+    - Load specific models from CMIP5 suite
+    - Produce initial salinity and temperature plots
+    - Perform GMM and BGMM clustering
+    - Produce boxplots of maximum posterior probabilities
 """
 
 # Importing modules
